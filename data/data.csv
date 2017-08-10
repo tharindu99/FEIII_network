@@ -1,0 +1,1686 @@
+source,target,Role
+Ally Financial Inc,Equity Securities,Issuer
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally Bank,Affiliates
+Ally Financial Inc,Ally,Affiliates
+Ally Financial Inc,Ally Bank,affiliates
+Ally Financial Inc,Ally Bank,affiliates
+Ally Financial Inc,Ally Bank,affiliates
+Ally Financial Inc,Ally Bank,Affiliate
+Ally Financial Inc,Ally Bank,Affiliate
+Ally Financial Inc,Ally Bank,Affiliate
+Ally Financial Inc,Ally Bank,affiliate
+Ally Financial Inc,Ally Financial,Affiliate
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally Financial Inc.,affiliates
+Ally Financial Inc,Ally Bank,affiliates
+Ally Financial Inc,Ally Bank,affiliates
+Ally Financial Inc,Ally Bank,affiliates
+Ally Financial Inc,Ally Bank,affiliate
+Ally Financial Inc,Ally,Affiliate
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,Equity Securities,Issuer
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Ally Financial Inc.,servicers
+Ally Financial Inc,Advance Funding,Servicer
+Ally Financial Inc,Ally Financial Inc.,servicer
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally,counterparty
+Ally Financial Inc,Ally Financial Inc.,counterparties
+Ally Financial Inc,Ally Financial Inc.,Guarantors
+Ally Financial Inc,Ally US LLC,Guarantors
+Ally Financial Inc,IB Finance Holding Company LLC,Guarantors
+Ally Financial Inc,GMAC Latin America Holdings LLC,Guarantors
+Ally Financial Inc,GMAC International Holdings B.V.,Guarantors
+Ally Financial Inc,GMAC Continental Corporation.,Guarantors
+Ally Financial Inc,Ally Consolidated,Guarantors
+Ally Financial Inc,Ally Consolidated,Guarantors
+Ally Financial Inc,Ally,Guarantors
+Ally Financial Inc,Ally,Guarantors
+Ally Financial Inc,Ally,Guarantors
+Ally Financial Inc,Ally,Guarantors
+Ally Financial Inc,Ally,Guarantors
+Ally Financial Inc,Ally,Guarantors
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,GMAC Mortgage LLC,affiliates
+Ally Financial Inc,GMAC Mortgage,affiliates
+Ally Financial Inc,Residential Funding Company LLC,affiliates
+Ally Financial Inc,Residential Funding Securities LLC,affiliates
+Ally Financial Inc,"Residential Accredit Loans, Inc.",affiliates
+Ally Financial Inc,"Residential Asset Mortgage Products, Inc.",affiliates
+Ally Financial Inc,National Credit Union,agent
+Ally Financial Inc,Central Federal Credit Union,agent
+Ally Financial Inc,Corporate Federal Credit Union,underwriter
+Ally Financial Inc,"Goldman, Sachs & Co.",underwriter
+Ally Financial Inc,Mortgage Securities Corp.,agent
+Ally Financial Inc,GS Mortgage Securities Corp.,issuers
+Ally Financial Inc,Long Beach Securities Corp.,issuers
+Ally Financial Inc,Central Federal Credit Union,agent
+Ally Financial Inc,MBIA Insurance Corporation,Insurer
+Ally Financial Inc,New York County,Insurer
+Ally Financial Inc,MBIA Insurance Corporation,Insurer
+Ally Financial Inc,MBIA Insurance Corporation,Insurer
+Ally Financial Inc,GMAC Mortgage,Insurer
+Ally Financial Inc,"Cerberus Capital Management, L.P.",affiliates
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Deloitte & Touche,affiliates
+Ally Financial Inc,Guaranty Trust Company of New York,Trustee
+Ally Financial Inc,Comerica Bank,Trustee
+Ally Financial Inc,GMAC Capital Trust I,trustees
+AMERICAN EXPRESS CO,American Express,issuers
+AMERICAN EXPRESS CO,American Express,issuers
+AMERICAN EXPRESS CO,American Express,issuer
+AMERICAN EXPRESS CO,American Express,issuer
+AMERICAN EXPRESS CO,Bank of America,issuer
+AMERICAN EXPRESS CO,JPMorgan Chase,issuer
+AMERICAN EXPRESS CO,Capital One Financial,issuer
+AMERICAN EXPRESS CO,Discover Financial Services,issuer
+AMERICAN EXPRESS CO,Discover,issuer
+AMERICAN EXPRESS CO,Discover,issuer
+AMERICAN EXPRESS CO,U.S. Bank,issuers
+AMERICAN EXPRESS CO,JPMorgan Chase,issuers
+AMERICAN EXPRESS CO,American Express,issuers
+AMERICAN EXPRESS CO,Travelers,issuer
+AMERICAN EXPRESS CO,EQUITY SECURITIES,ISSUER
+BANK OF AMERICA CORP,Equity Securities,Issuer
+BANK OF AMERICA CORP,FNMA,servicers
+BANK OF AMERICA CORP,Equity Securities,Issuer
+BANK OF AMERICA CORP,Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,Countrywide Financial Corporation,trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,Fannie Mae,trustee
+BANK OF AMERICA CORP,FNMA,trustee
+BANK OF AMERICA CORP,Freddie Mac,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Assured Guaranty,trustee
+BANK OF AMERICA CORP,Bank of America,trustee
+BANK OF AMERICA CORP,FNMA,servicers
+BANK OF AMERICA CORP,Assured Guaranty,insurers
+BANK OF AMERICA CORP,Countrywide,insurers
+BANK OF AMERICA CORP,Bank of America,insurers
+BANK OF AMERICA CORP,FHA,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,Affiliates
+BANK OF AMERICA CORP,Bank of America,counterparty
+BANK OF AMERICA CORP,Bank of New York Mellon,Trustee
+BANK OF AMERICA CORP,"BAC Home Loans Servicing, LP",Trustee
+BANK OF AMERICA CORP,Countrywide,Trustee
+BANK OF AMERICA CORP,Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,insurer
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Home equity,counterparty
+BANK OF AMERICA CORP,Bank of New York Mellon,Trustee
+BANK OF AMERICA CORP,FNMA,servicers
+BANK OF AMERICA CORP,BNY Mellon,Counterparties
+BANK OF AMERICA CORP,Countrywide,Counterparties
+BANK OF AMERICA CORP,Countrywide,insurers
+BANK OF AMERICA CORP,Bank of America,insurers
+BANK OF AMERICA CORP,Bank of America Capital Trust I,Issuer
+BANK OF AMERICA CORP,New York,underwriters
+BANK OF AMERICA CORP,New York,underwriters
+BANK OF AMERICA CORP,Bank of America,underwriters
+BANK OF AMERICA CORP,Countrywide,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,affiliates
+BANK OF AMERICA CORP,Countrywide,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,affiliates
+BANK OF AMERICA CORP,New York,affiliates
+BANK OF AMERICA CORP,New York County,affiliates
+BANK OF AMERICA CORP,"American International Group, Inc. et al",affiliates
+BANK OF AMERICA CORP,Bank of America Corporation,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,affiliates
+BANK OF AMERICA CORP,Countrywide,affiliates
+BANK OF AMERICA CORP,Los Angeles County,affiliates
+BANK OF AMERICA CORP,Countrywide Financial Corporation,affiliates
+BANK OF AMERICA CORP,Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,The Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,"TMST, Inc.",trustee
+BANK OF AMERICA CORP,"Thornburg Mortgage, Inc.)",trustee
+BANK OF AMERICA CORP,"U.S. Bank, National Association",trustee
+BANK OF AMERICA CORP,U.S. Bank,trustee
+BANK OF AMERICA CORP,Mortgage Loan Trust 2005-10,trustee
+BANK OF AMERICA CORP,New York,trustee
+BANK OF AMERICA CORP,New York County,trustee
+BANK OF AMERICA CORP,U.S. Bank National Association,Trustee
+BANK OF AMERICA CORP,"Mortgage Loan Trust, Series 2005-10",Trustee
+BANK OF AMERICA CORP,"Countrywide Home Loans, Inc.",Trustee
+BANK OF AMERICA CORP,Bank of America,Trustee
+BANK OF AMERICA CORP,Bank of America Corporation,Trustee
+BANK OF AMERICA CORP,Countrywide Financial Corporation,Trustee
+BANK OF AMERICA CORP,"Bank of America, N.A.",Trustee
+BANK OF AMERICA CORP,NB Holdings Corporation.,Trustee
+BANK OF AMERICA CORP,FHA,affiliates
+BANK OF AMERICA CORP,U.S. Bank Trust National Association,Trustee
+BANK OF AMERICA CORP,The Bank of New York,Trustee
+BANK OF AMERICA CORP,"The Bank of New York, incorporated",Trustee
+BANK OF AMERICA CORP,"Bank of America, N.A.",Agent
+BANK OF AMERICA CORP,"Transfer Agent, incorporated",Agent
+BANK OF AMERICA CORP,"Bank of America, N.A.",Agent
+BANK OF AMERICA CORP,"Transfer Agent, incorporated",Agent
+Bank of New York Mellon Corp,BNY Mellon,affiliate
+Bank of New York Mellon Corp,BNY Mellon,affiliates
+Bank of New York Mellon Corp,The Bank of New York Mellon,counterparty
+Bank of New York Mellon Corp,BNY Mellon,Affiliates
+Bank of New York Mellon Corp,BNY Mellon,Affiliates
+Bank of New York Mellon Corp,BNY Mellon,affiliates
+Bank of New York Mellon Corp,EQUITY SECURITIES,ISSUER
+BB&T CORP,BB&T,affiliates
+BB&T CORP,BB&T,counterparties
+BB&T CORP,EQUITY SECURITIES BB&T,ISSUER
+BB&T CORP,BB&T,ISSUER
+BB&T CORP,Capital Securities,issuer
+BB&T CORP,BB&T,counterparties
+BB&T CORP,BB&T,counterparty
+BB&T CORP,BB&T.,Counterparties
+BB&T CORP,BB&T,Counterparties
+BB&T CORP,BB&T.,Counterparties
+BB&T CORP,BB&T,guarantor
+BB&T CORP,BB&T.,Counterparties
+BB&T CORP,BB&T,Counterparties
+BB&T CORP,BB&T.,Counterparties
+BB&T CORP,Government National Mortgage Association,seller
+BB&T CORP,Federal Home Loan Mortgage Corporation,seller
+BB&T CORP,Federal National Mortgage Association,seller
+BB&T CORP,State Street Bank and Trust Company),trustee
+BB&T CORP,State Street Bank and Trust Company),trustee
+CAPITAL ONE FINANCIAL CORP,American Express,issuers
+CAPITAL ONE FINANCIAL CORP,Discover,issuers
+CAPITAL ONE FINANCIAL CORP,Equity Securities Market,Issuer
+CAPITAL ONE FINANCIAL CORP,Equity Securities,Issuer
+CAPITAL ONE FINANCIAL CORP,Capital Management,Sellers
+CAPITAL ONE FINANCIAL CORP,GreenPoint,insurers
+CAPITAL ONE FINANCIAL CORP,GreenPoint,insurers
+CAPITAL ONE FINANCIAL CORP,Savings Bank,trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+COMERICA INC,Equity Securities,Issuer
+COMERICA INC,Comerica,Affiliates
+COMERICA INC,Comerica,Affiliates
+COMERICA INC,"New York, New York",affiliates
+COMERICA INC,Equity Securities,Issuer
+COMERICA INC,Comerica,Issuer
+COMERICA INC,Comerica Incorporated,Issuer
+COMERICA INC,Comerica,Issuer
+COMERICA INC,Comerica Incorporated,counterparty
+COMERICA INC,AXA Investment Managers SA,Guarantors
+Discover Financial Services,Equity Securities,Issuer
+Discover Financial Services,Discover Network,issuers
+Discover Financial Services,Discover,issuers
+Discover Financial Services,Discover,issuers
+Discover Financial Services,Discover Bank Credit,Counterparty
+Discover Financial Services,Discover Bank,Counterparty
+Discover Financial Services,Equity Securities,Issuer
+Discover Financial Services,Discover,issuers
+Discover Financial Services,Equity Securities,Issuer
+Discover Financial Services,Discover,issuers
+Discover Financial Services,Discover Network,issuer
+Discover Financial Services,Equity Securities,Issuer
+Discover Financial Services,Stock Market,Issuer
+Discover Financial Services,Equity Securities,Issuer
+Discover Financial Services,Discover Bank,counterparties
+Discover Financial Services,Equity Securities,Issuer
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Discover Bank,servicer
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Discover Bank,counterparty
+Discover Financial Services,"U.S. Bank, National Association",trustee
+Discover Financial Services,Discover Financial Services,trustee
+Discover Financial Services,Discover Bank,issuer
+Discover Financial Services,Discover Financial Services,issuer
+Discover Financial Services,Discover Bank,issuer
+Discover Financial Services,Discover Financial Services,issuer
+Discover Financial Services,U.S. Bank National Association,Trustee
+Discover Financial Services,U.S. Bank National Association,Trustee
+Discover Financial Services,U.S. Bank National Association,Trustee
+Discover Financial Services,U.S. Bank National Association,Trustee
+Discover Financial Services,Discover Card Execution Note Trust,Issuer
+Discover Financial Services,Discover Bank,Issuer
+Discover Financial Services,Discover Card Execution Note Trust,Issuer
+Discover Financial Services,Discover Bank,Issuer
+Discover Financial Services,Discover Card Execution Note Trust,Issuer
+Discover Financial Services,Discover Bank,Issuer
+Discover Financial Services,Discover Card Execution Note Trust,Issuer
+Discover Financial Services,Discover Bank,Issuer
+Discover Financial Services,MasterCard Incorporated,Affiliates
+Discover Financial Services,MasterCard International Incorporated,Affiliates
+Discover Financial Services,Visa Inc.,Affiliates
+Discover Financial Services,Visa U.S.A. Inc.,Affiliates
+Discover Financial Services,Visa International Service Association,Affiliates
+Discover Financial Services,Discover Financial Services,Affiliates
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Senior Debt,Trustee
+FIFTH THIRD BANCORP,Fifth Third,agents
+FIFTH THIRD BANCORP,Fifth Third,counterparties
+FIFTH THIRD BANCORP,Fifth Third,insurer
+FIFTH THIRD BANCORP,Fifth Third,servicers
+FIFTH THIRD BANCORP,Fifth Third Capital Trust VII,trustee
+FIFTH THIRD BANCORP,Trust Preferred Securities,trustee
+FIFTH THIRD BANCORP,Fifth Third Bank,Trustee
+FIFTH THIRD BANCORP,Equity Securities,Issuer
+FIFTH THIRD BANCORP,EQUITY SECURITIES,ISSUER
+FIFTH THIRD BANCORP,Equity Securities,Issuer
+FIFTH THIRD BANCORP,Fifth Third Bancorp,Trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,Guarantor
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,Trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,Trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,trustee
+FIFTH THIRD BANCORP,Fifth Third,trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,Guarantor
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,trustee
+FIFTH THIRD BANCORP,Fifth Third,trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,Guarantor
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,trustee
+FIFTH THIRD BANCORP,Fifth Third,trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Trust Preferred Securities,Issuer
+FIFTH THIRD BANCORP,Fifth Third Capital Trust VI,Issuer
+FIFTH THIRD BANCORP,Fifth Third Bancorp,Guarantor
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,trustee
+FIFTH THIRD BANCORP,Fifth Third Bancorp,agent
+FIFTH THIRD BANCORP,Wilmington Trust Company,agent
+FIFTH THIRD BANCORP,American Stock Transfer,agent
+FIFTH THIRD BANCORP,Fifth Third Bancorp,Trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Senior Debt,Trustee
+FIFTH THIRD BANCORP,Fifth Third,Trustee
+FIFTH THIRD BANCORP,David A.,AFFILIATE
+FIFTH THIRD BANCORP,Robert W.,AFFILIATE
+GENERAL ELECTRIC CO,Equity Securities,Issuer
+GENERAL ELECTRIC CO,"General Electric Capital Services, Inc.",affiliates
+GENERAL ELECTRIC CO,General Electric Capital Corporation,affiliate
+GENERAL ELECTRIC CO,The Bank of New York,trustee
+GENERAL ELECTRIC CO,General Electric,trustee
+GENERAL ELECTRIC CO,The Bank of New York,trustee
+GENERAL ELECTRIC CO,General Electric,trustee
+GENERAL ELECTRIC CO,General Electric,trustee
+GENERAL ELECTRIC CO,The Bank of New York,trustee
+GENERAL ELECTRIC CO,General Electric,trustee
+GENERAL ELECTRIC CO,Bank of New York,trustee
+GENERAL ELECTRIC CO,"JPMorgan Chase Bank, N.A.",Agent
+GENERAL ELECTRIC CO,Goldman Sachs Credit Partners L.P.,Agent
+GENERAL ELECTRIC CO,Morgan Stanley,Agents
+GENERAL ELECTRIC CO,"Bank of America, N.A.",Agents
+GENERAL ELECTRIC CO,Citigroup Global Markets Inc.,Agents
+GENERAL ELECTRIC CO,General Electric,Agents
+GOLDMAN SACHS GROUP INC,Goldman Sachs,counterparties
+GOLDMAN SACHS GROUP INC,The Asia Society,trustee
+GOLDMAN SACHS GROUP INC,New York,trustee
+GOLDMAN SACHS GROUP INC,Equity Securities,Issuer
+GOLDMAN SACHS GROUP INC,Equity Securities,Issuer
+GOLDMAN SACHS GROUP INC,"Sumitomo Mitsui Financial Group, Inc.",affiliate
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,Charles Schwab Corporation,counterparties
+GOLDMAN SACHS GROUP INC,Federal Home Loan Banks,counterparties
+GOLDMAN SACHS GROUP INC,Fannie Mae,affiliates
+GOLDMAN SACHS GROUP INC,Freddie Mac,affiliates
+GOLDMAN SACHS GROUP INC,Life Insurance Co. Limited,affiliates
+GOLDMAN SACHS GROUP INC,"Washington Mutual, Inc.",underwriters
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,IndyMac,underwriters
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,Hellenic Republic,affiliates
+GOLDMAN SACHS GROUP INC,New York,affiliate
+GOLDMAN SACHS GROUP INC,Goldman Sachs,affiliates
+GOLDMAN SACHS GROUP INC,"The Goldman Sachs Group, Inc.",trustee
+GOLDMAN SACHS GROUP INC,The Bank of New York,trustee
+GOLDMAN SACHS GROUP INC,"The Goldman Sachs Group, Inc.",trustee
+GOLDMAN SACHS GROUP INC,The Bank of New York,trustee
+GOLDMAN SACHS GROUP INC,"The Goldman Sachs Group, Inc.",trustee
+GOLDMAN SACHS GROUP INC,The Bank of New York,trustee
+GOLDMAN SACHS GROUP INC,GS Finance Corp.,issuer
+GOLDMAN SACHS GROUP INC,"The Goldman Sachs Group, Inc.",guarantor
+GOLDMAN SACHS GROUP INC,The Bank of New York,trustee
+GOLDMAN SACHS GROUP INC,"The Goldman Sachs Group, Inc.",trustee
+GOLDMAN SACHS GROUP INC,The Bank of New York Mellon,trustee
+GOLDMAN SACHS GROUP INC,GS Finance Corp.,issuer
+GOLDMAN SACHS GROUP INC,"The Goldman Sachs Group, Inc.",guarantor
+GOLDMAN SACHS GROUP INC,The Bank of New York Mellon,trustee
+HUNTINGTON BANCSHARES INC,Equity Securities,Issuer
+HUNTINGTON BANCSHARES INC,Huntington Bancshares Incorporated,Issuer
+HUNTINGTON BANCSHARES INC,NASDAQ Stock Market,Issuer
+HUNTINGTON BANCSHARES INC,The Huntington National Bank,trustee
+KEYCORP,Freddie Mac Program,Underwriter
+KEYCORP,FHA,Underwriter
+KEYCORP,KeyBank,affiliates
+KEYCORP,KeyCorp,affiliates
+KEYCORP,KeyBanc Capital Markets Inc.,affiliates
+KEYCORP,KeyCorp,affiliates
+KEYCORP,EQUITY SECURITIES,ISSUER
+KEYCORP,Trust Preferred Securities,issuer
+KEYCORP,KeyCorp Capital,trustee
+KEYCORP,KeyBank,affiliate
+M&T BANK CORP,Equity Securities,Issuer
+M&T BANK CORP,M&T Securities,agent
+M&T BANK CORP,M&T Bank,agent
+M&T BANK CORP,M&T,Affiliates
+M&T BANK CORP,M&T Bank,Affiliates
+M&T BANK CORP,"Wilmington Trust, N.A.",Affiliates
+M&T BANK CORP,M&T,trustee
+M&T BANK CORP,M&T Securities,trustee
+M&T BANK CORP,M&T,trustee
+M&T BANK CORP,M&T,trustee
+M&T BANK CORP,M&T Securities,trustee
+M&T BANK CORP,Equity Securities,Issuer
+M&T BANK CORP,Equity Securities,Issuer
+M&T BANK CORP,M&T,Issuer
+M&T BANK CORP,M&T,guarantors
+M&T BANK CORP,Wilmington Trust,affiliates
+M&T BANK CORP,M&T.,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T.,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T Bank,agent
+M&T BANK CORP,M&T.,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,Bayview Financial,affiliates
+MORGAN STANLEY,"Morgan Stanley Private Bank, National Association",affiliates
+MORGAN STANLEY,Morgan Stanley Smith Barney LLC,affiliate
+MORGAN STANLEY,Morgan Stanley,agent
+MORGAN STANLEY,IndyMac Bancorp,affiliates
+MORGAN STANLEY,Countrywide Financial Corporation.,underwriter
+MORGAN STANLEY,Federal Home Loan Mortgage Corporation,servicer
+MORGAN STANLEY,Freddie Mac,servicer
+MORGAN STANLEY,Federal National Mortgage Association,servicer
+MORGAN STANLEY,Fannie Mae,servicer
+MORGAN STANLEY,Equity Securities,Issuer
+MORGAN STANLEY,Equity Securities,Issuer
+MORGAN STANLEY,Equity Securities,Issuer
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York Mellon,trustee
+MORGAN STANLEY,Morgan Stanley,Agent
+MORGAN STANLEY,The Bank of New York Mellon,Agent
+MORGAN STANLEY,Morgan Stanley,Agent
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,The Bank of New York (Delaware),trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,The Bank of New York (Delaware),Trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,The Bank of New York (Delaware),trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,The Bank of New York (Delaware),trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,The Bank of New York (Delaware),trustee
+MORGAN STANLEY,The Bank of New York,trustee
+MORGAN STANLEY,The Bank of New York (Delaware),trustee
+NORTHERN TRUST CORP,Equity Securities,Issuer
+NORTHERN TRUST CORP,Northern Trust Corporation,Trustee
+NORTHERN TRUST CORP,The First National Bank of Chicago,Trustee
+NORTHERN TRUST CORP,The Northern Trust Company,Issuer
+NORTHERN TRUST CORP,"JPMorgan Chase Bank, N.A.",Trustee
+NORTHERN TRUST CORP,Northern Trust Corporation,Trustee
+NORTHERN TRUST CORP,Savings Bank,Trustee
+NORTHERN TRUST CORP,"U.S. Trust Company, N.A.",Trustee
+NORTHERN TRUST CORP,"Evercore Trust Company, N.A.",Trustee
+NORTHERN TRUST CORP,Employee Stock Ownership Plan,Trustee
+NORTHERN TRUST CORP,The First National Bank of Chicago,Trustee
+NORTHERN TRUST CORP,NTC Capital I,Guarantor
+NORTHERN TRUST CORP,Northern Trust Corporation,Guarantor
+NORTHERN TRUST CORP,The First National Bank of Chicago,Trustee
+NORTHERN TRUST CORP,The First National Bank of Chicago,Trustee
+NORTHERN TRUST CORP,NTC Capital,Guarantor
+NORTHERN TRUST CORP,Northern Trust Corporation,Guarantor
+NORTHERN TRUST CORP,The First National Bank of Chicago,Trustee
+PNC FINANCIAL SERVICES GROUP INC,PNC,affiliates
+PNC FINANCIAL SERVICES GROUP INC,"PNC Bank, N.A.",affiliates
+PNC FINANCIAL SERVICES GROUP INC,PNC,seller
+PNC FINANCIAL SERVICES GROUP INC,FHA,issuer
+PNC FINANCIAL SERVICES GROUP INC,Department of Veterans Affairs,issuer
+PNC FINANCIAL SERVICES GROUP INC,FNMA,issuer
+PNC FINANCIAL SERVICES GROUP INC,The Bank of New York Mellon,trustee
+PNC FINANCIAL SERVICES GROUP INC,"PNC Bank, National Association",trustee
+PNC FINANCIAL SERVICES GROUP INC,"PNC Bank, N",trustee
+PNC FINANCIAL SERVICES GROUP INC,National City,underwriters
+PNC FINANCIAL SERVICES GROUP INC,Federal Home Loan Bank,underwriters
+PNC FINANCIAL SERVICES GROUP INC,National City,insurers
+PNC FINANCIAL SERVICES GROUP INC,PNC,servicers
+PNC FINANCIAL SERVICES GROUP INC,PNC,servicers
+PNC FINANCIAL SERVICES GROUP INC,PNC,agents
+PNC FINANCIAL SERVICES GROUP INC,National City,agents
+PNC FINANCIAL SERVICES GROUP INC,PNC,agents
+PNC FINANCIAL SERVICES GROUP INC,National City Corporation,Agent
+PNC FINANCIAL SERVICES GROUP INC,Wilmington Trust Company,Agent
+PNC FINANCIAL SERVICES GROUP INC,National City Bank,Agent
+PNC FINANCIAL SERVICES GROUP INC,"Bank of New York Trust Company, N.A.",Trustee
+PNC FINANCIAL SERVICES GROUP INC,Deferred Compensation Plan,Affiliates
+PNC FINANCIAL SERVICES GROUP INC,Deferred Compensation Plan,Affiliates
+PNC FINANCIAL SERVICES GROUP INC,Deferred Compensation Plan,Affiliates
+PNC FINANCIAL SERVICES GROUP INC,Deferred Compensation Plan,Affiliates
+PNC FINANCIAL SERVICES GROUP INC,Deferred Compensation Plan,Affiliates
+PNC FINANCIAL SERVICES GROUP INC,Deferred Compensation Plan,Affiliates
+PNC FINANCIAL SERVICES GROUP INC,Deferred Compensation and,Affiliates
+PNC FINANCIAL SERVICES GROUP INC,PNC Investment Corp.,trustee
+PNC FINANCIAL SERVICES GROUP INC,Hershey Trust Company,trustee
+PNC FINANCIAL SERVICES GROUP INC,"PNC Bank, National Association",trustee
+STATE STREET CORP,State Street Bank,affiliates
+STATE STREET CORP,State Street Bank,affiliates
+STATE STREET CORP,State Street Bank,affiliates
+STATE STREET CORP,State Street Bank,affiliates
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,EQUITY SECURITIES MARKET,ISSUER
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,State Street,counterparties
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,Corporate Finance,affiliates
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street Bank,affiliates
+STATE STREET CORP,State Street Bank,affiliate
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,"Boston Financial Data Services, Inc.",affiliates
+STATE STREET CORP,International Financial Data Services group,affiliates
+SUNTRUST BANKS INC,Equity Securities,Issuer
+SUNTRUST BANKS INC,EQUITY SECURITIES,ISSUER
+SUNTRUST BANKS INC,SunTrust,servicers
+SUNTRUST BANKS INC,SunTrust,affiliates
+SUNTRUST BANKS INC,SunTrust,Counterparty
+SUNTRUST BANKS INC,Fannie Mae,seller
+SUNTRUST BANKS INC,Freddie Mac,seller
+SUNTRUST BANKS INC,SunTrust,affiliates
+SUNTRUST BANKS INC,Federal Reserve Bank,issuer
+SUNTRUST BANKS INC,New York,underwriters
+SUNTRUST BANKS INC,"Colonial BancGroup, Inc.",underwriters
+SUNTRUST BANKS INC,Colonial BancGroup,underwriters
+SUNTRUST BANKS INC,Colonial BancGroup,underwriters
+SUNTRUST BANKS INC,"Colonial BancGroup, Inc. Securities",underwriters
+SUNTRUST BANKS INC,SunTrust,insurers
+SUNTRUST BANKS INC,"PNC, N.A.",Trustee
+SUNTRUST BANKS INC,The First National Bank of Chicago,Trustee
+SUNTRUST BANKS INC,"SunTrust Banks, Inc.",Trustee
+SUNTRUST BANKS INC,The Bank of New York,Trustee
+SUNTRUST BANKS INC,National Commerce Financial Corporation,Trustee
+SUNTRUST BANKS INC,Bank of New York,Trustee
+SUNTRUST BANKS INC,National Commerce Bancorporation,Trustee
+SUNTRUST BANKS INC,National Commerce Financial Corporation,Trustee
+SUNTRUST BANKS INC,The Bank of New York,Trustee
+SUNTRUST BANKS INC,National Commerce Bancorporation,Trustee
+SUNTRUST BANKS INC,"SunTrust Banks, Inc.",Trustee
+SUNTRUST BANKS INC,U.S. Bank National Association,Trustee
+SUNTRUST BANKS INC,"SunTrust Banks, Inc.",Trustee
+SUNTRUST BANKS INC,U.S. Bank National Association,Trustee
+SUNTRUST BANKS INC,"SunTrust Banks, Inc.",Trustee
+SUNTRUST BANKS INC,U.S. Bank National Association,Trustee
+SUNTRUST BANKS INC,"SunTrust Banks, Inc.",Trustee
+SUNTRUST BANKS INC,U.S. Bank National Association,Trustee
+SUNTRUST BANKS INC,"SunTrust Banks, Inc.",Trustee
+SUNTRUST BANKS INC,U.S. Bank National Association,Trustee
+WELLS FARGO & COMPANY,EQUITY SECURITIES,ISSUER
+WELLS FARGO & COMPANY,EQUITY SECURITIES MARKET,ISSUER
+ZIONS BANCORPORATION,EQUITY SECURITIES MARKET,ISSUER
+ZIONS BANCORPORATION,"Zions Direct, Inc.",underwriters
+ZIONS BANCORPORATION,"J.P. Morgan Trust Company, N.A.",trustee
+ZIONS BANCORPORATION,Zions Bancorporation,trustee
+ZIONS BANCORPORATION,"J.P. Morgan Trust Company, N.A.",trustee
+ZIONS BANCORPORATION,Zions Bancorporation,trustee
+ZIONS BANCORPORATION,"J.P. Morgan Trust Company, N.A.",trustee
+ZIONS BANCORPORATION,Zions Bancorporation,trustee
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Advance Funding,Servicer
+Ally Financial Inc,Ally Financial Inc,Guarantors
+Ally Financial Inc,Ally US LLC,Guarantors
+Ally Financial Inc,"IB Finance Holding Company, LLC",Guarantors
+Ally Financial Inc,GMAC Latin America Holdings LLC,Guarantors
+Ally Financial Inc,GMAC International Holdings B.V.,Guarantors
+Ally Financial Inc,GMAC Continental LLC.,Guarantors
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,Ally Bank,affiliate
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Ally Bank,affiliate
+Ally Financial Inc,Advance Funding,Servicer
+Ally Financial Inc,Ally Financial Inc,Guarantors
+Ally Financial Inc,Ally US LLC,Guarantors
+Ally Financial Inc,"IB Finance Holding Company, LLC",Guarantors
+Ally Financial Inc,GMAC Latin America Holdings LLC,Guarantors
+Ally Financial Inc,GMAC International Holdings B.V.,Guarantors
+Ally Financial Inc,GMAC Continental Corporation.,Guarantors
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,New York County,Insurer
+Ally Financial Inc,MBIA Insurance Corp.,Insurer
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,New York County,Insurer
+Ally Financial Inc,MBIA Insurance Corp.,Insurer
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Ally,affiliates
+Ally Financial Inc,Advance Funding,Servicer
+Ally Financial Inc,Ally Financial Inc,Guarantors
+Ally Financial Inc,Ally US LLC,Guarantors
+Ally Financial Inc,"IB Finance Holding Company, LLC",Guarantors
+Ally Financial Inc,GMAC Latin America Holdings LLC,Guarantors
+Ally Financial Inc,GMAC International Holdings B.V.,Guarantors
+Ally Financial Inc,GMAC Continental Corporation.,Guarantors
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,New York County,Insurer
+Ally Financial Inc,MBIA Insurance Corp.,Insurer
+Ally Financial Inc,Freddie Mac,issuers
+Ally Financial Inc,New York County,Insurer
+Ally Financial Inc,MBIA Insurance Corp.,Insurer
+Ally Financial Inc,Freddie Mac,issuers
+AMERICAN EXPRESS CO,American Express,issuer
+AMERICAN EXPRESS CO,American Express,issuer
+BANK OF AMERICA CORP,Merrill Lynch,counterparties
+BANK OF AMERICA CORP,Countrywide,counterparties
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Countrywide,insurers
+BANK OF AMERICA CORP,Bank of America,insurers
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,The Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,insurers
+BANK OF AMERICA CORP,Bank of America,insurers
+BANK OF AMERICA CORP,Assured Guaranty Ltd.,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,insurer
+BANK OF AMERICA CORP,The Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,Alternative Loan Trust 2006-OA10,Sellers
+BANK OF AMERICA CORP,"Countrywide Home Loans, Inc.",Sellers
+BANK OF AMERICA CORP,"TMST, Inc.",trustee
+BANK OF AMERICA CORP,"Thornburg Mortgage, Inc.)",trustee
+BANK OF AMERICA CORP,"Merrill Lynch & Co., Inc.",counterparties
+BANK OF AMERICA CORP,Merrill Lynch,counterparties
+BANK OF AMERICA CORP,Countrywide Financial Corporation,counterparties
+BANK OF AMERICA CORP,Countrywide,counterparties
+BANK OF AMERICA CORP,The Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,Bank of New York Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,affiliates
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustees
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,insurer
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,New York,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,FNMA,servicers
+BANK OF AMERICA CORP,Assured Guaranty,insurers
+BANK OF AMERICA CORP,Countrywide,insurers
+BANK OF AMERICA CORP,Bank of America,insurers
+BANK OF AMERICA CORP,Bank of New York Mellon,Trustee
+BANK OF AMERICA CORP,Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,affiliates
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,insurer
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,New York,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,Assured Guaranty Ltd.,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,insurer
+BANK OF AMERICA CORP,Bank of New York Mellon,Trustee
+BANK OF AMERICA CORP,Countrywide,insurers
+BANK OF AMERICA CORP,Bank of America,insurers
+BANK OF AMERICA CORP,"Lehman Brothers Holdings, Inc.",underwriter
+BANK OF AMERICA CORP,Countrywide,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,affiliates
+BANK OF AMERICA CORP,New York,affiliates
+BANK OF AMERICA CORP,Countrywide Financial Corporation,affiliates
+BANK OF AMERICA CORP,CFC,affiliates
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,"Bank of America, N.A.",Agent
+BANK OF AMERICA CORP,Transfer Agent,Agent
+BANK OF AMERICA CORP,"Bank of America, N.A.",Agent
+BANK OF AMERICA CORP,Transfer Agent,Agent
+BANK OF AMERICA CORP,The Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,Assured Guaranty Ltd.,trustee
+BANK OF AMERICA CORP,Assured Guaranty,trustee
+BANK OF AMERICA CORP,Fannie Mae,trustee
+BANK OF AMERICA CORP,FNMA,trustee
+BANK OF AMERICA CORP,Freddie Mac,trustee
+BANK OF AMERICA CORP,BNY Mellon,affiliates
+BANK OF AMERICA CORP,BNY Mellon,affiliates
+BANK OF AMERICA CORP,BNY Mellon,affiliates
+BANK OF AMERICA CORP,BNY Mellon,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,insurers
+BANK OF AMERICA CORP,"Bank of America, N.A.",counterparty
+BANK OF AMERICA CORP,"Merrill Lynch & Co., Inc.",counterparties
+BANK OF AMERICA CORP,Merrill Lynch,counterparties
+BANK OF AMERICA CORP,Countrywide Financial Corporation,counterparties
+BANK OF AMERICA CORP,Countrywide,counterparties
+BANK OF AMERICA CORP,The Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,Trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Assured Guaranty,trustee
+BANK OF AMERICA CORP,FNMA,insurers
+BANK OF AMERICA CORP,FNMA,servicers
+BANK OF AMERICA CORP,Assured Guaranty,insurers
+BANK OF AMERICA CORP,Countrywide,insurers
+BANK OF AMERICA CORP,Bank of America,insurers
+BANK OF AMERICA CORP,Merrill Lynch,Affiliates
+BANK OF AMERICA CORP,Latin America,counterparties
+BANK OF AMERICA CORP,Bank of New York Mellon,Trustee
+BANK OF AMERICA CORP,"BAC Home Loans Servicing, LP",Trustee
+BANK OF AMERICA CORP,Countrywide,Trustee
+BANK OF AMERICA CORP,Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,Trustee
+BANK OF AMERICA CORP,BNY Mellon,insurer
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Assured Guaranty,affiliates
+BANK OF AMERICA CORP,Home equity,counterparty
+BANK OF AMERICA CORP,Bank of New York Mellon,Trustee
+BANK OF AMERICA CORP,FNMA,servicers
+BANK OF AMERICA CORP,FNMA,insurers
+BANK OF AMERICA CORP,BNY Mellon,Counterparties
+BANK OF AMERICA CORP,Countrywide,Counterparties
+BANK OF AMERICA CORP,Countrywide,insurers
+BANK OF AMERICA CORP,Bank of America,insurers
+BANK OF AMERICA CORP,"Banc of America Securities, LLC",underwriter
+BANK OF AMERICA CORP,"Merrill Lynch, Pierce, Fenner & Smith Incorporated",underwriter
+BANK OF AMERICA CORP,"Bank of America, N.A.",affiliates
+BANK OF AMERICA CORP,Lehman Brothers Holdings Inc.,affiliates
+BANK OF AMERICA CORP,Lehman Brothers Special Financing Inc.,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,affiliates
+BANK OF AMERICA CORP,Countrywide,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,affiliates
+BANK OF AMERICA CORP,"State of New York, New York County",affiliates
+BANK OF AMERICA CORP,"American International Group, Inc. et al",affiliates
+BANK OF AMERICA CORP,Bank of America Corporation,affiliates
+BANK OF AMERICA CORP,Merrill Lynch,affiliates
+BANK OF AMERICA CORP,"Countrywide Home Loans, Inc.",affiliates
+BANK OF AMERICA CORP,"Countrywide Home Loans, Inc. et al",sellers
+BANK OF AMERICA CORP,The Bank of New York Mellon,trustee
+BANK OF AMERICA CORP,"U.S. Bank, N.A.",trustee
+BANK OF AMERICA CORP,U.S. Bank,trustee
+BANK OF AMERICA CORP,Mortgage Loan Trust 2005-10,trustee
+BANK OF AMERICA CORP,"State of New York, New York County",trustee
+BANK OF AMERICA CORP,Countrywide,trustee
+BANK OF AMERICA CORP,NB Holdings,trustee
+BANK OF AMERICA CORP,U.S. Bank National Association,Trustee
+BANK OF AMERICA CORP,"Mortgage Loan Trust, Series 2005-10",Trustee
+BANK OF AMERICA CORP,"Countrywide Home Loans, Inc.",Trustee
+BANK OF AMERICA CORP,U.S. Bank,Trustee
+Bank of New York Mellon Corp,U.S. investment,affiliates
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,counterparty
+Bank of New York Mellon Corp,The Bank of New York Mellon,agent
+Bank of New York Mellon Corp,BNY Mellon,agent
+Bank of New York Mellon Corp,BNY Mellon,agent
+Bank of New York Mellon Corp,The Bank of New York Mellon,Trustee
+Bank of New York Mellon Corp,The Bank of New York Mellon,Trustee
+Bank of New York Mellon Corp,The Bank of New York Mellon,Trustee
+Bank of New York Mellon Corp,BNY Mellon,affiliates
+Bank of New York Mellon Corp,BNY Mellon,affiliates
+Bank of New York Mellon Corp,New York,Trustee
+Bank of New York Mellon Corp,Registered investment advisor,Issuer
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,agent
+Bank of New York Mellon Corp,U.S. investment,affiliates
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,New York,trustee
+Bank of New York Mellon Corp,Bank of America Corporation,trustee
+Bank of New York Mellon Corp,Countrywide,trustee
+Bank of New York Mellon Corp,BNY Mellon,counterparty
+Bank of New York Mellon Corp,The Bank of New York Mellon,agent
+Bank of New York Mellon Corp,BNY Mellon,agent
+Bank of New York Mellon Corp,BNY Mellon,agent
+Bank of New York Mellon Corp,The Bank of New York Mellon,Trustee
+Bank of New York Mellon Corp,The Bank of New York Mellon,Trustee
+Bank of New York Mellon Corp,The Bank of New York Mellon,Trustee
+Bank of New York Mellon Corp,BNY Mellon,affiliates
+Bank of New York Mellon Corp,BNY Mellon,affiliates
+Bank of New York Mellon Corp,New York,Trustee
+Bank of New York Mellon Corp,BNY Mellon,agent
+Bank of New York Mellon Corp,U.S. investment,affiliates
+Bank of New York Mellon Corp,BNY Mellon,counterparty
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,counterparty
+Bank of New York Mellon Corp,The Bank of New York Mellon,agent
+Bank of New York Mellon Corp,BNY Mellon,agent
+Bank of New York Mellon Corp,BNY Mellon,agent
+Bank of New York Mellon Corp,The Bank of New York Mellon,trustee
+Bank of New York Mellon Corp,The Bank of New York Mellon,trustee
+Bank of New York Mellon Corp,The Bank of New York Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,affiliates
+Bank of New York Mellon Corp,BNY Mellon,affiliates
+Bank of New York Mellon Corp,New York,Trustee
+Bank of New York Mellon Corp,The Bank of New York Mellon,trustee
+Bank of New York Mellon Corp,New York,trustee
+Bank of New York Mellon Corp,New York County,trustee
+Bank of New York Mellon Corp,Bank of America Corporation,trustee
+Bank of New York Mellon Corp,Countrywide,trustee
+Bank of New York Mellon Corp,BNY Mellon,trustee
+Bank of New York Mellon Corp,BNY Mellon,trustee
+BB&T CORP,BB&T.,Counterparties
+BB&T CORP,BB&T,Counterparties
+BB&T CORP,BB&T.,Counterparties
+BB&T CORP,BB&T,counterparties
+BB&T CORP,BB&T.,Counterparties
+BB&T CORP,BB&T,Counterparties
+BB&T CORP,BB&T.,Counterparties
+BB&T CORP,BB&T,counterparties
+CAPITAL ONE FINANCIAL CORP,GreenPoint,insurers
+CAPITAL ONE FINANCIAL CORP,Savings Bank,trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,GreenPoint,insurers
+CAPITAL ONE FINANCIAL CORP,GreenPoint,insurers
+CAPITAL ONE FINANCIAL CORP,Savings Bank,trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,GreenPoint,insurers
+CAPITAL ONE FINANCIAL CORP,GreenPoint,insurers
+CAPITAL ONE FINANCIAL CORP,Savings Bank,trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,The Bank of New York Mellon,trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CAPITAL ONE FINANCIAL CORP,BNY Mellon Trust of Delaware,Trustee
+CAPITAL ONE FINANCIAL CORP,"The Bank of New York Mellon Trust Company, N.A.",trustee
+CITIGROUP INC,Citigroup,counterparty
+CITIGROUP INC,Citigroup,servicer
+CITIGROUP INC,Citigroup,counterparty
+CITIGROUP INC,Citigroup,affiliates
+CITIGROUP INC,Federal Home Loan Bank of Boston,Counterparty
+CITIGROUP INC,Union Central Life Insurance Co.,Counterparty
+CITIGROUP INC,Ameritas Life Insurance Corp.,Counterparty
+CITIGROUP INC,Life Insurance Co.,Counterparty
+CITIGROUP INC,Citigroup,Counterparty
+CITIGROUP INC,Lehman Brothers Inc.,Trustee
+CITIGROUP INC,"Computershare Trust Company, N.A.",Agent
+CITIGROUP INC,"Computershare Trust Company, N.A.",Agent
+CITIGROUP INC,The Bank of New York Mellon,Trustee
+CITIGROUP INC,The Bank of New York Mellon,Trustee
+CITIGROUP INC,"Citigroup Capital XI, incorporated",Trustee
+CITIGROUP INC,The Bank of New York Mellon,Trustee
+CITIGROUP INC,Deutsche Bank Securities Inc.,Underwriters
+CITIGROUP INC,Deutsche Bank Securities Inc.,Underwriters
+CITIGROUP INC,Citigroup,counterparty
+CITIGROUP INC,Citigroup,servicer
+CITIGROUP INC,Citigroup,counterparty
+CITIGROUP INC,Citigroup,affiliates
+CITIGROUP INC,Citigroup,servicers
+CITIGROUP INC,Citigroup,underwriter
+CITIGROUP INC,"AMBAC FINANCIAL GROUP, INC. SECURITIES",underwriter
+CITIGROUP INC,Citigroup,affiliates
+CITIGROUP INC,New York,affiliates
+CITIGROUP INC,"Computershare Trust Company, N.A.",Agent
+CITIGROUP INC,"Computershare Trust Company, N.A.",Agent
+CITIGROUP INC,The Bank of New York Mellon,Trustee
+CITIGROUP INC,"Citigroup Capital XI, incorporated",Trustee
+CITIGROUP INC,The Bank of New York Mellon,Trustee
+CITIGROUP INC,Citigroup,counterparty
+CITIGROUP INC,Citigroup,servicer
+CITIGROUP INC,Citigroup,counterparty
+CITIGROUP INC,Citigroup,affiliates
+CITIGROUP INC,Citigroup,Counterparty
+CITIGROUP INC,Citigroup,affiliates
+CITIGROUP INC,Citigroup,affiliates
+CITIGROUP INC,Citigroup,affiliates
+CITIGROUP INC,"Computershare Trust Company, N.A.",Agent
+CITIGROUP INC,"Computershare Trust Company, N.A.",Agent
+CITIGROUP INC,The Bank of New York Mellon,Trustee
+Discover Financial Services,Discover Bank,servicer
+Discover Financial Services,Discover Bank,counterparty
+Discover Financial Services,Discover Bank,counterparties
+Discover Financial Services,Equity Securities,Issuer
+Discover Financial Services,"JPMorgan Chase Bank, N.A.",Agent
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Discover Bank,servicer
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Discover Bank,counterparty
+Discover Financial Services,Discover Bank,counterparties
+Discover Financial Services,Equity Securities,Issuer
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Discover Bank,servicer
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Equity securities,issuers
+Discover Financial Services,Discover Bank,counterparty
+Discover Financial Services,Discover Bank,counterparties
+Discover Financial Services,Equity Securities,Issuer
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Senior Debt,Trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Senior Debt,Trustee
+FIFTH THIRD BANCORP,J.P. Morgan Securities LLC,underwriters
+FIFTH THIRD BANCORP,Fifth Third Bancorp,underwriter
+FIFTH THIRD BANCORP,J.P. Morgan Securities LLC,underwriter
+FIFTH THIRD BANCORP,Fifth Third Bancorp,trustee
+FIFTH THIRD BANCORP,Wilmington Trust Company,trustee
+FIFTH THIRD BANCORP,Senior Debt,trustee
+FIFTH THIRD BANCORP,Fifth Third,trustee
+FIFTH THIRD BANCORP,Fifth Third,servicers
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Senior Debt,Trustee
+FIFTH THIRD BANCORP,Fifth Third Capital Trust VII,trustee
+FIFTH THIRD BANCORP,Trust Preferred Securities,trustee
+FIFTH THIRD BANCORP,Fifth Third,servicers
+FIFTH THIRD BANCORP,Wilmington Trust Company,Trustee
+FIFTH THIRD BANCORP,Senior Debt,Trustee
+FIFTH THIRD BANCORP,Fifth Third Capital Trust VII,trustee
+FIFTH THIRD BANCORP,Trust Preferred Securities,trustee
+GOLDMAN SACHS GROUP INC,"Sumitomo Mitsui Financial Group, Inc.",affiliate
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,Federal Home Loan Banks,counterparties
+GOLDMAN SACHS GROUP INC,Charles Schwab Corporation,counterparties
+GOLDMAN SACHS GROUP INC,Life Insurance Co. Limited,counterparties
+GOLDMAN SACHS GROUP INC,"Washington Mutual, Inc.",underwriters
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,IndyMac,underwriters
+GOLDMAN SACHS GROUP INC,Hellenic Republic,affiliates
+GOLDMAN SACHS GROUP INC,New York,affiliate
+GOLDMAN SACHS GROUP INC,Goldman Sachs,affiliates
+GOLDMAN SACHS GROUP INC,"American International Group, Inc.",affiliates
+GOLDMAN SACHS GROUP INC,"Sumitomo Mitsui Financial Group, Inc.",affiliate
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,Federal Home Loan Banks,counterparties
+GOLDMAN SACHS GROUP INC,Charles Schwab Corporation,counterparties
+GOLDMAN SACHS GROUP INC,Life Insurance Co. Limited,counterparties
+GOLDMAN SACHS GROUP INC,"Washington Mutual, Inc.",underwriters
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,IndyMac,underwriters
+GOLDMAN SACHS GROUP INC,Hellenic Republic,affiliates
+GOLDMAN SACHS GROUP INC,New York,affiliate
+GOLDMAN SACHS GROUP INC,Goldman Sachs,affiliates
+GOLDMAN SACHS GROUP INC,"American International Group, Inc.",affiliates
+GOLDMAN SACHS GROUP INC,"Sumitomo Mitsui Financial Group, Inc.",affiliate
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,Fannie Mae,counterparties
+GOLDMAN SACHS GROUP INC,Freddie Mac,counterparties
+GOLDMAN SACHS GROUP INC,National Credit Union,counterparties
+GOLDMAN SACHS GROUP INC,Federal Home Loan Banks,counterparties
+GOLDMAN SACHS GROUP INC,Union Central Life Insurance Company,affiliates
+GOLDMAN SACHS GROUP INC,Ameritas Life Insurance Corp.,affiliates
+GOLDMAN SACHS GROUP INC,Life Insurance Company,affiliates
+GOLDMAN SACHS GROUP INC,Massachusetts Mutual Life Insurance Company,affiliates
+GOLDMAN SACHS GROUP INC,The Western and Southern Life Insurance Co.,affiliates
+GOLDMAN SACHS GROUP INC,"Washington Mutual, Inc.",underwriters
+GOLDMAN SACHS GROUP INC,New York,underwriters
+GOLDMAN SACHS GROUP INC,IndyMac,underwriters
+GOLDMAN SACHS GROUP INC,Hellenic Republic,affiliates
+GOLDMAN SACHS GROUP INC,New York,affiliate
+GOLDMAN SACHS GROUP INC,Goldman Sachs,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,issuers
+JPMORGAN CHASE & CO,JPMorgan Chase,seller
+JPMORGAN CHASE & CO,Fannie Mae,servicer
+JPMORGAN CHASE & CO,Freddie Mac,servicer
+JPMORGAN CHASE & CO,New York,affiliates
+JPMORGAN CHASE & CO,J.P. Morgan Securities LLC,affiliates
+JPMORGAN CHASE & CO,JPMorgan,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,counterparty
+JPMORGAN CHASE & CO,JPMorgan Chase,counterparty
+JPMORGAN CHASE & CO,Lehman Brothers Inc.,Trustee
+JPMORGAN CHASE & CO,JPMorgan Chase,Trustee
+JPMORGAN CHASE & CO,JPMorgan Chase,Trustee
+JPMORGAN CHASE & CO,New York,Trustee
+JPMORGAN CHASE & CO,Bear Stearns,affiliates
+JPMORGAN CHASE & CO,Washington Mutual,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,issuer
+JPMORGAN CHASE & CO,Bear Stearns,issuer
+JPMORGAN CHASE & CO,New York,underwriter
+JPMORGAN CHASE & CO,WaMu Asset Acceptance Corp.,affiliates
+JPMORGAN CHASE & CO,WaMu Capital Corp.,affiliates
+JPMORGAN CHASE & CO,WaMu Asset Acceptance Corp.,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,issuer
+JPMORGAN CHASE & CO,Bear Stearns,issuer
+JPMORGAN CHASE & CO,Washington Mutual,issuer
+JPMORGAN CHASE & CO,Federal Home Loan Banks,issuer
+JPMORGAN CHASE & CO,JPMorgan Chase,affiliates
+JPMORGAN CHASE & CO,Bear Stearns,affiliates
+JPMORGAN CHASE & CO,Washington Mutual,affiliates
+JPMORGAN CHASE & CO,IndyMac Bancorp,underwriter
+JPMORGAN CHASE & CO,IndyMac Trusts,underwriter
+JPMORGAN CHASE & CO,Thornburg Mortgage,underwriter
+JPMORGAN CHASE & CO,Bear Stearns,underwriters
+JPMORGAN CHASE & CO,New York,underwriters
+JPMORGAN CHASE & CO,IndyMac Bancorp.,affiliate
+JPMORGAN CHASE & CO,MBIA Insurance Corp.,underwriters
+JPMORGAN CHASE & CO,JPMorgan Chase,seller
+JPMORGAN CHASE & CO,JPMorgan Chase,seller
+JPMORGAN CHASE & CO,Fannie Mae,servicer
+JPMORGAN CHASE & CO,Freddie Mac,servicer
+JPMORGAN CHASE & CO,New York,affiliates
+JPMORGAN CHASE & CO,J.P. Morgan Securities LLC,affiliates
+JPMORGAN CHASE & CO,JPMorgan,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,counterparty
+JPMORGAN CHASE & CO,JPMorgan Chase,counterparty
+JPMORGAN CHASE & CO,Lehman Brothers Inc.,Trustee
+JPMORGAN CHASE & CO,JPMorgan Chase,Trustee
+JPMORGAN CHASE & CO,JPMorgan Chase,Trustee
+JPMORGAN CHASE & CO,JP Morgan Securities Ltd.,Trustee
+JPMORGAN CHASE & CO,Bear Stearns,affiliates
+JPMORGAN CHASE & CO,Washington Mutual,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,issuer
+JPMORGAN CHASE & CO,Bear Stearns,issuer
+JPMORGAN CHASE & CO,New York,underwriter
+JPMORGAN CHASE & CO,WaMu Asset Acceptance Corp.,affiliates
+JPMORGAN CHASE & CO,WaMu Capital Corp.,affiliates
+JPMORGAN CHASE & CO,WaMu Asset Acceptance Corp.,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,issuer
+JPMORGAN CHASE & CO,Bear Stearns,issuer
+JPMORGAN CHASE & CO,Washington Mutual,issuer
+JPMORGAN CHASE & CO,Federal Home Loan Banks,issuer
+JPMORGAN CHASE & CO,JPMorgan Chase,affiliates
+JPMORGAN CHASE & CO,Bear Stearns,affiliates
+JPMORGAN CHASE & CO,Washington Mutual,affiliates
+JPMORGAN CHASE & CO,IndyMac Bancorp,underwriter
+JPMORGAN CHASE & CO,IndyMac Trusts,underwriter
+JPMORGAN CHASE & CO,Thornburg Mortgage,underwriter
+JPMORGAN CHASE & CO,Bear Stearns,underwriters
+JPMORGAN CHASE & CO,New York,underwriters
+JPMORGAN CHASE & CO,IndyMac Trust,underwriters
+JPMORGAN CHASE & CO,IndyMac Bancorp.,affiliate
+JPMORGAN CHASE & CO,MBIA Insurance Corp.,underwriters
+JPMORGAN CHASE & CO,JPMorgan Chase,counterparty
+JPMORGAN CHASE & CO,JPMorgan Chase,servicers
+JPMORGAN CHASE & CO,JPMorgan Chase,issuers
+JPMORGAN CHASE & CO,Municipal bond,seller
+JPMORGAN CHASE & CO,JPMorgan Chase,seller
+JPMORGAN CHASE & CO,JPMorgan Chase,seller
+JPMORGAN CHASE & CO,Fannie Mae,servicer
+JPMORGAN CHASE & CO,Freddie Mac,servicer
+JPMORGAN CHASE & CO,New York,affiliates
+JPMORGAN CHASE & CO,J.P. Morgan Securities LLC,affiliates
+JPMORGAN CHASE & CO,JPMorgan,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,counterparty
+JPMORGAN CHASE & CO,JPMorgan Chase,counterparty
+JPMORGAN CHASE & CO,Lehman Brothers Inc.,Trustee
+JPMORGAN CHASE & CO,JPMorgan Chase,Trustee
+JPMORGAN CHASE & CO,JPMorgan Chase,Trustee
+JPMORGAN CHASE & CO,Bear Stearns,affiliates
+JPMORGAN CHASE & CO,Washington Mutual,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,issuer
+JPMORGAN CHASE & CO,Bear Stearns,issuer
+JPMORGAN CHASE & CO,New York,underwriter
+JPMORGAN CHASE & CO,WaMu Asset Acceptance Corp.,affiliates
+JPMORGAN CHASE & CO,WaMu Capital Corp.,affiliates
+JPMORGAN CHASE & CO,WaMu Asset Acceptance Corp.,affiliates
+JPMORGAN CHASE & CO,JPMorgan Chase,issuer
+JPMORGAN CHASE & CO,Bear Stearns,issuer
+JPMORGAN CHASE & CO,Washington Mutual,issuer
+JPMORGAN CHASE & CO,Federal Home Loan Banks,issuer
+JPMORGAN CHASE & CO,JPMorgan Chase,issuers
+JPMORGAN CHASE & CO,Washington Mutual,issuers
+JPMORGAN CHASE & CO,Housing Finance,issuers
+JPMORGAN CHASE & CO,Fannie Mae,issuers
+JPMORGAN CHASE & CO,Freddie Mac,issuers
+JPMORGAN CHASE & CO,JPMorgan,underwriter
+JPMORGAN CHASE & CO,Bear Stearns,underwriter
+JPMORGAN CHASE & CO,IndyMac Bancorp,underwriter
+JPMORGAN CHASE & CO,IndyMac Trusts,underwriter
+JPMORGAN CHASE & CO,Thornburg Mortgage,underwriter
+JPMORGAN CHASE & CO,Bear Stearns,underwriters
+JPMORGAN CHASE & CO,New York,underwriters
+JPMORGAN CHASE & CO,IndyMac Trust,underwriters
+JPMORGAN CHASE & CO,IndyMac Bancorp.,affiliate
+JPMORGAN CHASE & CO,MBIA Insurance Corp.,underwriters
+JPMORGAN CHASE & CO,Wells Fargo,trustee
+JPMORGAN CHASE & CO,EMC Mortgage,trustee
+JPMORGAN CHASE & CO,Deutsche Bank National Trust Co.,trustee
+JPMORGAN CHASE & CO,JPMorgan Chase,counterparty
+KEYCORP,Freddie Mac Program,Underwriter
+KEYCORP,FHA,Underwriter
+KEYCORP,KeyCorp Capital V,trustee
+KEYCORP,KeyCorp Capital,trustee
+KEYCORP,KeyCorp Capital,trustee
+KEYCORP,KeyCorp Capital V,trustee
+KEYCORP,KeyCorp Capital,trustee
+KEYCORP,KeyCorp Capital,trustee
+KEYCORP,Freddie Mac Program,Underwriter
+KEYCORP,FHA,Underwriter
+KEYCORP,KeyCorp Capital,trustee
+KEYCORP,KeyCorp Capital V,trustee
+KEYCORP,KeyCorp Capital,trustee
+KEYCORP,KeyCorp Capital,trustee
+M&T BANK CORP,Bayview Financial,affiliates
+M&T BANK CORP,M&T Bank,agent
+M&T BANK CORP,M&T Bank,agent
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T.,affiliates
+M&T BANK CORP,Equity Securities,Issuer
+M&T BANK CORP,Bayview Financial,affiliates
+M&T BANK CORP,M&T Bank,agent
+M&T BANK CORP,M&T Bank,agent
+M&T BANK CORP,M&T,guarantors
+M&T BANK CORP,Wilmington Trust,affiliates
+M&T BANK CORP,M&T.,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,Equity Securities,Issuer
+M&T BANK CORP,Bayview Financial,affiliates
+M&T BANK CORP,M&T Bank,agent
+M&T BANK CORP,M&T Bank,agent
+M&T BANK CORP,M&T,guarantors
+M&T BANK CORP,Wilmington Trust,affiliates
+M&T BANK CORP,M&T.,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,M&T,affiliates
+M&T BANK CORP,Equity Securities,Issuer
+MORGAN STANLEY,Morgan Stanley,issuers
+MORGAN STANLEY,MBIA Inc.,counterparty
+MORGAN STANLEY,Equity Securities,Issuer
+MORGAN STANLEY,Morgan Stanley,issuers
+MORGAN STANLEY,MBIA Insurance Corporation),insurers
+MORGAN STANLEY,Equity Securities,Issuer
+MORGAN STANLEY,Morgan Stanley,issuers
+MORGAN STANLEY,Lehman Brothers Equity,underwriter
+MORGAN STANLEY,Central Mortgage Company,servicer
+MORGAN STANLEY,Federal Home Loan Mortgage Corporation,servicer
+MORGAN STANLEY,Freddie Mac,servicer
+MORGAN STANLEY,Federal National Mortgage Association,servicer
+MORGAN STANLEY,Fannie Mae,servicer
+MORGAN STANLEY,Equity Securities,Issuer
+MORGAN STANLEY,Morgan Stanley,trustee
+MORGAN STANLEY,The Bank of New York Mellon,trustee
+NORTHERN TRUST CORP,Northern Trust,issuer
+NORTHERN TRUST CORP,Northern Trust,servicers
+NORTHERN TRUST CORP,Northern Trust,counterparty
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,seller
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,issuer
+NORTHERN TRUST CORP,Northern Trust,servicers
+NORTHERN TRUST CORP,Northern Trust,counterparty
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,seller
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,issuer
+NORTHERN TRUST CORP,Northern Trust,servicers
+NORTHERN TRUST CORP,Northern Trust,counterparty
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,counterparties
+NORTHERN TRUST CORP,Northern Trust,seller
+NORTHERN TRUST CORP,Northern Trust,counterparties
+PNC FINANCIAL SERVICES GROUP INC,PNC,servicers
+PNC FINANCIAL SERVICES GROUP INC,"PNC Bank, N.A.",servicers
+PNC FINANCIAL SERVICES GROUP INC,PNC Bank,servicers
+PNC FINANCIAL SERVICES GROUP INC,PNC,agents
+PNC FINANCIAL SERVICES GROUP INC,PNC,agents
+PNC FINANCIAL SERVICES GROUP INC,FHA,issuer
+PNC FINANCIAL SERVICES GROUP INC,Department of Veterans Affairs,issuer
+PNC FINANCIAL SERVICES GROUP INC,PNC,servicers
+PNC FINANCIAL SERVICES GROUP INC,PNC Bank,servicers
+PNC FINANCIAL SERVICES GROUP INC,PNC,agents
+PNC FINANCIAL SERVICES GROUP INC,National City,agents
+PNC FINANCIAL SERVICES GROUP INC,PNC,agents
+PNC FINANCIAL SERVICES GROUP INC,FHA,issuer
+PNC FINANCIAL SERVICES GROUP INC,Department of Veterans Affairs,issuer
+PNC FINANCIAL SERVICES GROUP INC,PNC,agents
+PNC FINANCIAL SERVICES GROUP INC,National City,agents
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street,counterparties
+STATE STREET CORP,Corporate Finance,affiliates
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,Corporate Finance,affiliates
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,Corporate Finance,affiliates
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,Lehman Brothers,affiliate
+STATE STREET CORP,State Street,agent
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street,counterparty
+STATE STREET CORP,State Street,counterparty
+SUNTRUST BANKS INC,Fannie Mae,seller
+SUNTRUST BANKS INC,Freddie Mac,seller
+SUNTRUST BANKS INC,Federal Reserve Bank,issuer
+SUNTRUST BANKS INC,SunTrust,servicers
+SUNTRUST BANKS INC,SunTrust,affiliates
+SUNTRUST BANKS INC,Fannie Mae,seller
+SUNTRUST BANKS INC,Freddie Mac,seller
+SUNTRUST BANKS INC,Federal Reserve Bank,issuer
+SUNTRUST BANKS INC,New York,underwriters
+SUNTRUST BANKS INC,"Colonial BancGroup, Inc.",underwriters
+SUNTRUST BANKS INC,Colonial BancGroup,underwriters
+SUNTRUST BANKS INC,Colonial BancGroup,underwriters
+SUNTRUST BANKS INC,"Colonial BancGroup, Inc. Securities",underwriters
+SUNTRUST BANKS INC,SunTrust,servicers
+SUNTRUST BANKS INC,SunTrust,affiliates
+SUNTRUST BANKS INC,Fannie Mae,seller
+SUNTRUST BANKS INC,Freddie Mac,seller
+SUNTRUST BANKS INC,Federal Reserve Bank,issuer
+SUNTRUST BANKS INC,New York,underwriters
+SUNTRUST BANKS INC,"Colonial BancGroup, Inc.",underwriters
+SUNTRUST BANKS INC,Colonial BancGroup,underwriters
+SUNTRUST BANKS INC,Colonial BancGroup,underwriters
+SUNTRUST BANKS INC,"Colonial BancGroup, Inc. Securities",underwriters
+SUNTRUST BANKS INC,SunTrust,servicers
+SUNTRUST BANKS INC,SunTrust,servicers
+SUNTRUST BANKS INC,SunTrust,affiliates
+WELLS FARGO & COMPANY,GNMA,servicer
+WELLS FARGO & COMPANY,Wells Fargo,servicers
+WELLS FARGO & COMPANY,Wells Fargo & Company 401(k) Plan,trustee
+WELLS FARGO & COMPANY,GNMA,seller
+WELLS FARGO & COMPANY,FNMA,seller
+WELLS FARGO & COMPANY,GNMA,servicer
+WELLS FARGO & COMPANY,Wells Fargo,servicers
+WELLS FARGO & COMPANY,Wells Fargo,issuers
+WELLS FARGO & COMPANY,Wells Fargo,issuers
+WELLS FARGO & COMPANY,Wells Fargo & Company 401(k) Plan,trustee
+WELLS FARGO & COMPANY,GNMA,seller
+WELLS FARGO & COMPANY,FNMA,seller
+WELLS FARGO & COMPANY,FHA,servicer
+WELLS FARGO & COMPANY,GNMA,servicer
+WELLS FARGO & COMPANY,Wells Fargo,servicer
+WELLS FARGO & COMPANY,Wells Fargo,issuers
+WELLS FARGO & COMPANY,Wells Fargo,issuers
+WELLS FARGO & COMPANY,Wells Fargo & Company 401(k) Plan,trustee
+WELLS FARGO & COMPANY,GNMA,seller
+WELLS FARGO & COMPANY,FNMA,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,PMI Mortgage Insurance Co.,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",sellers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,issuers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,issuers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Ambac Assurance Corporation,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,guarantor
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Equity Securities,Issuer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Wells Fargo Bank N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"JPMorgan Chase Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Bank of America N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",sellers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,counterparty
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,HSBC Bank USA,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Royal Bank of Scotland,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,UBS AG.,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,agent
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,agent
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank of New York,agent
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,counterparty
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"BAC Home Loans Servicing, LP",affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Countrywide Home Loans, Inc.",affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Countrywide Home Loans, Inc.",affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide Bank FSB,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Taylor, Bean & Whitaker Mortgage Corp.",seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide Home Loans Servicing LP,Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"BAC Home Loans Servicing, LP)",Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide Financial Corporation,Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,New York,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Wells Fargo Bank N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"JPMorgan Chase Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Bank of America N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Mortgage Guaranty Insurance Corporation,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Genworth Mortgage Insurance Corporation,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,United Guaranty Residential Insurance Co.,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,PMI Mortgage Insurance Co.,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Ambac Assurance Corporation,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,MBIA Insurance Corp.,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Assured Guaranty Municipal Corp.,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Public Finance,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,counterparty
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,HSBC Bank USA,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Royal Bank of Scotland,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,UBS AG,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Putnam Funds,Trustees
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Howard Hughes Medical Institute,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Advisory Board,Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Calvert Sage Fund,Trustees
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,Seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Ally,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Ally,counterparty
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Ally,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Ally,affiliates
+SCHWAB_CHARLES_CORP ,Equity Securities,Issuer
+SCHWAB_CHARLES_CORP ,Equity Securities,Issuer
+SCHWAB_CHARLES_CORP ,Charles Schwab Family of Funds,trustee
+SCHWAB_CHARLES_CORP ,Schwab Investments,trustee
+SCHWAB_CHARLES_CORP ,Schwab Capital Trust,trustee
+SCHWAB_CHARLES_CORP ,Schwab Annuity Portfolios,trustee
+SCHWAB_CHARLES_CORP ,Laudus Trust,trustee
+SCHWAB_CHARLES_CORP ,Laudus Institutional Trust,trustee
+SCHWAB_CHARLES_CORP ,"Charles Schwab & Co., Inc.",trustee
+SCHWAB_CHARLES_CORP ,Charles Schwab Bank,trustee
+SCHWAB_CHARLES_CORP ,Charles Schwab Family of Funds,trustee
+SCHWAB_CHARLES_CORP ,Schwab Investments,trustee
+SCHWAB_CHARLES_CORP ,Schwab Capital Trust,trustee
+SCHWAB_CHARLES_CORP ,Schwab Annuity Portfolios,trustee
+SCHWAB_CHARLES_CORP ,Laudus Trust,trustee
+SCHWAB_CHARLES_CORP ,Laudus Institutional Trust,trustee
+SCHWAB_CHARLES_CORP ,Schwab Strategic Trust,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,REO properties,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Wells Fargo Bank N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Bank of America N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"JPMorgan Chase Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Citimortgage, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"U.S. Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Deutsche Bank,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,HSBC Bank USA,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Fannie Mae,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Taylor, Bean & Whitaker Mortgage Corp.",seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Wells Fargo Bank N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Bank of America N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"JPMorgan Chase Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Citimortgage, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"U.S. Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Deutsche Bank,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Mortgage Guaranty Insurance Corporation,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Genworth Mortgage Insurance Corporation,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,PMI Mortgage Insurance Co.,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,United Guaranty Residential Insurance Co.,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Republic Mortgage Insurance,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Triad Guaranty Insurance Corporation,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Ambac Assurance Corporation,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,MBIA Insurance Corp.,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Assured Guaranty Municipal Corp.,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Public Finance,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,counterparty
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,HSBC Bank USA,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,EQUITY SECURITIES,ISSUER
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,New York,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Deutsche Bank,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",sellers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,counterparty
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,counterparty
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Taylor, Bean & Whitaker Mortgage Corp.",seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide Home Loans Servicing LP,Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"BAC Home Loans Servicing, LP)",Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide Financial Corporation,Trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Countrywide,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,The Bank of New York Mellon,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,New York,trustee
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Wells Fargo Bank N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Bank of America N.A.,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"JPMorgan Chase Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Citimortgage, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"U.S. Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"CBRE Capital Markets, Inc.",servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Deutsche Bank,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Mortgage Guaranty Insurance Corporation,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Genworth Mortgage Insurance Corporation,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,United Guaranty Residential Insurance Co.,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,PMI Mortgage Insurance Co.,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Republic Mortgage Insurance,insurer
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,affiliates
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Ambac Assurance Corporation,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,MBIA Insurance Corp.,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Assured Guaranty Municipal Corp.,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Public Finance,insurers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Federal Reserve Bank,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,counterparty
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Barclays Bank PLC,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Goldman Sachs Bank USA,counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"JP Morgan Chase Bank, N.A.",counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,"Bank of America, N.A.",counterparties
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,seller
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,underwriters
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,Freddie Mac,servicers
+FEDERAL_HOME_LOAN_MORTGAGE_CORP,EQUITY SECURITIES,ISSUER
+SCHWAB_CHARLES_CORP ,Equity Securities,Issuer
+SCHWAB_CHARLES_CORP ,Equity Securities,Issuer
+SCHWAB_CHARLES_CORP ,Equity Securities,Issuer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,FHA,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,FHA,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Bank of America Corporation,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,JPMorgan Chase & Co.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Wells Fargo & Company,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Citigroup Inc.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Ally Financial Inc.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Bank of America,affiliates
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,FHA,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,issuer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,issuer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,counterparty
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,seller
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Triad Guaranty Insurance Corporation,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Republic Mortgage Insurance Company,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,PMI Mortgage Insurance Co.,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Genworth Mortgage Insurance Corporation,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Mortgage Guaranty Insurance Corporation,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Bank of America Corporation,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,JPMorgan Chase & Co.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Wells Fargo & Company,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Citigroup Inc.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Ally Financial Inc.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,seller
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Equity Securities,Issuer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,FNMA,Issuer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Bank of America,affiliates
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Bank of America,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,seller
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"Bank of America, N.A.",servicer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"JPMorgan Chase Bank, N.A.",servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Genworth Mortgage Insurance Corporation,insurer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Mortgage Guaranty Insurance Corporation,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Republic Mortgage Insurance Company,affiliate
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,Guarantors
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Federal Reserve Bank,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,issuers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Freddie Mac,issuers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"The Mainstay Funds, New York Life Insurance Company",Trustees
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Community Partners,Trustees
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Community Investment,Trustees
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Advisory Council,Trustee
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Advisory Board,trustee
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,seller
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,seller
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,trustee
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Ally,affiliates
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,guarantor
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,guarantor
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"BAC Home Loans Servicing, LP",affiliates
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"Countrywide Home Loans, Inc.",affiliates
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Countrywide Financial Corporation.,affiliates
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Genworth Mortgage Insurance Corporation,insurer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Mortgage Guaranty Insurance Corporation,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Republic Mortgage Insurance Company,affiliate
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,underwriters
+US_BANCORP,U.S. Bank National Association,Affiliates
+US_BANCORP,U.S. Bank National Association,Affiliates
+US_BANCORP,Equity Securities,Issuer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Bank of America,servicer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,JPMorgan Chase & Co.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,underwriters
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,New York,underwriters
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,underwriters
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,underwriters
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,seller
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"Bank of America, N.A.",servicer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,JPMorgan Chase & Co.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Republic Mortgage Insurance Company,affiliate
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,underwriters
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,New York,underwriters
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,seller
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Bank of America,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"Bank of America, N.A.",servicer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,JPMorgan Chase & Co.,servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,"Wells Fargo Bank, N.A.",servicers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Republic Mortgage Insurance Company,affiliate
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Genworth Mortgage Insurance Corporation),insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Mortgage Guaranty Insurance Corporation,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Federal Reserve Bank,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Genworth Mortgage Insurance Corporation),insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Mortgage Guaranty Insurance Corporation,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,sellers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,underwriters
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,New York,underwriters
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,counterparties
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Triad Guaranty Insurance Corporation,insurer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,PMI Mortgage Insurance Co.,insurer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Republic Mortgage Insurance Company,insurer
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Genworth Mortgage Insurance Corporation),insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Mortgage Guaranty Insurance Corporation,insurers
+FEDERAL_NATIONAL_MORTGAGE_ASSOCIATION_FANNIE_MAE,Fannie Mae,seller
+US_BANCORP,BNY Mellon,agent
+US_BANCORP,BNY Mellon,agent
+US_BANCORP,BNY Mellon,agent
+US_BANCORP,BNY Mellon,agent
+US_BANCORP,BNY Mellon,agent
+US_BANCORP,BNY Mellon,agent
