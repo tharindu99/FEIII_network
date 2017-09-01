@@ -38,7 +38,10 @@ d3.json("data/fin_network.json", function(error, graph) {
     .enter().append("line")
     .attr("marker-end", "url(#arrow)")
     .attr("stroke-width", 1)
-    .style("stroke",function(d) { return color(d.ROLE); });
+    .style("stroke",function(d) { return color(d.ROLE); })
+    .on('mouseover', edge_mouseover)
+    .on('mouseout', edge_mouseout)
+    .on('click', edge_click);
 
  var node = svg.selectAll("circle")
       .data(graph.nodes)
@@ -109,11 +112,12 @@ d3.json("data/fin_network.json", function(error, graph) {
       .attr('dx', 10)
       .attr('dy', '.35em')
       .text(function(d) {
-        console.log(d.equity);
         return d.equity;
       })
-      .style('fill', 'grey')
-      .style("font-size", "9");
+      .style('font-family', 'sans-serif')
+      .style("font-weight", "bold")
+      .style('fill', '#55584E')
+      .style("font-size", "11");
 
   simulation
       .nodes(graph.nodes)
@@ -174,6 +178,7 @@ d3.json("data/fin_network.json", function(error, graph) {
                 return o.source === d || o.target === d ? o.source.colour : 2;
             });
             link.attr('marker-end', o => (opacity === 1 || o.source === d || o.target === d ? 'url(#arrow)' : 'url(#arrow-fade)'));
+            link.style('stroke-width', '2.5px');
         };
   }
   function node_mouseout(){
@@ -202,6 +207,15 @@ graph.links.forEach(function (d) {
 function neighboring(a, b) {
     return linkedByIndex[a.index + "," + b.index];
 }
+
+function edge_mouseover(d) {
+  d3.select(this).style('stroke-width', '3.5px');
+}
+
+function edge_mouseout(d) {
+  d3.select(this).style('stroke-width', '1px');
+}
+
 function connectedNodes() {
     if (toggle == 0) {
         //Reduce the opacity of all but the neighbouring nodes
@@ -212,17 +226,20 @@ function connectedNodes() {
         link.style("opacity", function (o) {
             return d.index==o.source.index | d.index==o.target.index ? 1 : 0;
         })
-            .style('stroke-width', '2px');
+            .style('stroke-width', '2.5px');
 
         edgelabels.append('textPath')
             .attr('xlink:href', function (d, i) {return '#edgepath' + i})
             .style("text-anchor", "middle")
             .style("pointer-events", "none")
             .style("font", "11px sans-serif")
+            .style("font-weight", "bold")
             .style('fill', '#55584E')
             .attr("startOffset", "50%")
             .text(function (o) {return d.index==o.source.index | d.index==o.target.index ? o.ROLE : "";});
 
+        $('#sideBar').css('display', 'none');
+        $('#container').css('left', '0px');
         //Reduce the op
         toggle = 1;
 
@@ -231,6 +248,8 @@ function connectedNodes() {
         node.style("opacity", 1);
         link.style("opacity", 1);
         edgelabels.text("");
+        $('#sideBar').css('display', 'none');
+        $('#container').css('left', '0px');
       // svg.selectAll("text").remove();
         toggle = 0;
     }
@@ -257,7 +276,12 @@ function dragended(d) {
 function zoomed() {
   svg.attr("transform", "translate(" + d3.event.transform.x + "," + d3.event.transform.y + ")" + " scale(" + d3.event.transform.k + ")");
 }
-
 function edge_click(d){
-    console.log(d);
+  $('#container').css('left', '270px');
+  $('#sideBar').css('display', 'block');
+  $('#showSource').text(d.source.equity);
+  $('#showTarget').text(d.target.equity);
+  $('#showRole').text(d.ROLE);
+  $('#showSentence').text(d.THREE_SENTENCES);
+  //console.log(d);
 }

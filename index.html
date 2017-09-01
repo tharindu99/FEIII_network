@@ -3,11 +3,30 @@
   <head>
     <meta charset="utf-8">
     <title>Fin Network</title>
-    <!--<link rel="stylesheet" href="/css/style.css">-->
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
   </head>
   <body>
-    <div id="container" style="height: 600px;"></div>
-    <!-- <svg width="960" height="600"></svg> -->
+    <div id="sideBar">
+      <h2 id="heading">Edge Details</h2>
+      <p id="source">
+        <h3>Filer entity </h3>
+        <p id="showSource"></p>
+      </p>
+      <p id="target">
+        <h3>Mentioned entity </h3>
+        <p id="showTarget"></p>
+      </p>
+      <p id="role">
+        <h3>Role</h3>
+        <p id="showRole" style="padding-top: 0px;"></p>
+      </p>
+      <p id="sentence">
+        <h3>Sentence</h3>
+        <p id="showSentence"></p>
+      </p>
+    </div>
+    <div id="container"></div>
     <script src="js/d3.v4.min.js"></script>
     <script src="js/d3-selection-multi.v1.js"></script>
     <script src="js/graph_draw.js"></script>
